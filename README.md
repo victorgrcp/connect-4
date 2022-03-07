@@ -1,8 +1,9 @@
-# connect-4
-Implementation of the connect-4 game in C.
+# CONNECT-4  
 
 Victor Garcia Pina, UAB Summer School 2020 Advanced Programming
-CONNECT-4  
+
+Desarrollo del juego connect-4 en C
+
 
 - Jugador vs Maquina 
 - He implementado una funcion 'heuristic' simple pero que es mejor que solo devolver un valor aleatorio.
